@@ -10,3 +10,6 @@ Untuk lebih lanjut silahkan kunjungi notebook yang saya buat:
 membangun model yang sesuai untuk dataset mengunakan teknik feature-selection & model-selection dan beberapa teknik lain nya. 
 Untuk lebih lanjut silahkan kunjungi notebook yang saya buat:
 https://github.com/sultanbst123/MachineHack-Sales_prediction/blob/main/Sales_predictions.ipynb
+
+### Dataset & Information
+https://machinehack.com/hackathons/data_analytics_championship/overview
