@@ -1,4 +1,4 @@
-# Sales-prediction
+# Analytics Olympiad
 Dalam hackathon ini peserta, peserta di minta untuk  
 memprediksi penjualan setiap produk dari setiap outlet
 
@@ -15,4 +15,4 @@ Untuk lebih lanjut silahkan kunjungi notebook yang saya buat:
 https://github.com/sultanbst123/MachineHack-Sales_prediction/blob/main/Sales_predictions.ipynb
 
 ### Dataset & Information
-https://machinehack.com/hackathons/data_analytics_championship/overview
+https://machinehack.com/hackathon/data_analytics_championship/overview
